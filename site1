@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-GB">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-GB">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="en-GB">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://m1k37h0r.esy.es/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://m1k37h0r.esy.es/wp-content/themes/jolene/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	<title>M1k37h0r | Smart Tribe</title>
+<link rel="alternate" type="application/rss+xml" title="M1k37h0r &raquo; Feed" href="http://m1k37h0r.esy.es/feed/" />
+<link rel="alternate" type="application/rss+xml" title="M1k37h0r &raquo; Comments Feed" href="http://m1k37h0r.esy.es/comments/feed/" />
+<link rel='stylesheet' id='__wps__jquery-ui-css-css'  href='http://m1k37h0r.esy.es/wp-content/plugins/wp-symposium/css/jquery-ui-1.10.3.custom.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='__wps__upload_ui_css-css'  href='http://m1k37h0r.esy.es/wp-content/plugins/wp-symposium/css/jquery.fileupload-ui.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bbspoiler-css'  href='http://m1k37h0r.esy.es/wp-content/plugins/bbspoiler/inc/bbspoiler.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='welovequotes-style-css'  href='http://m1k37h0r.esy.es/wp-content/plugins/quote-of-the-day-and-random-quote/quote-of-the-day-and-random-quote.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='http://m1k37h0r.esy.es/wp-content/plugins/soundy-background-music/css/jquery-ui-1.10.4/jquery-ui.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='soundy_front_end-css'  href='http://m1k37h0r.esy.es/wp-content/plugins/soundy-background-music/css/style-front-end.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jolene-genericons-css'  href='http://m1k37h0r.esy.es/wp-content/themes/jolene/genericons/genericons.css?ver=18112014' type='text/css' media='all' />
+<link rel='stylesheet' id='jolene-fonts-css'  href='//fonts.googleapis.com/css?family=Philosopher%7CLobster:400italic,400&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='jolene-style-css'  href='http://m1k37h0r.esy.es/wp-content/themes/jolene/style.css?ver=4.1.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='jolene-ie-css'  href='http://m1k37h0r.esy.es/wp-content/themes/jolene/css/ie.css?ver=20141210' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='instag-slider-css'  href='http://m1k37h0r.esy.es/wp-content/plugins/instagram-slider-widget/assets/css/instag-slider.css?ver=1.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sedlex_styles-css'  href='http://m1k37h0r.esy.es/wp-content/sedlex/inline_styles/676327e4f0268a4a1a59d0d1fed0513480f02ac8.css?ver=20150328' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://m1k37h0r.esy.es/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://m1k37h0r.esy.es/wp-content/plugins/jetpack/css/jetpack.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-members-css'  href='http://m1k37h0r.esy.es/wp-content/plugins/wp-members/css/wp-members-2013.css?ver=2.9.9.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var __wps__ = {"permalink":"","plugins":"http:\/\/m1k37h0r.esy.es\/wp-content\/plugins","plugin_url":"http:\/\/m1k37h0r.esy.es\/wp-content\/plugins\/wp-symposium\/","wps_content_dir":"\/home\/u307043305\/public_html\/wp-content\/wps-content","plugin_path":"http:\/\/m1k37h0r.esy.es\/wp-content\/plugins\/wp-symposium","images_url":"\/wp-content\/plugins\/wp-symposium\/images","inactive":"3","forum_url":"http:\/\/m1k37h0r.esy.es\/forum","mail_url":"http:\/\/m1k37h0r.esy.esINVALID PLUGIN URL REQUESTED (mail)","profile_url":"http:\/\/m1k37h0r.esy.esINVALID PLUGIN URL REQUESTED (profile)","groups_url":"http:\/\/m1k37h0r.esy.esINVALID PLUGIN URL REQUESTED (groups)","group_url":"http:\/\/m1k37h0r.esy.esINVALID PLUGIN URL REQUESTED (group)","gallery_url":"http:\/\/m1k37h0r.esy.esINVALID PLUGIN URL REQUESTED (gallery)","page_gid":"0","offline":"15","use_chat":"on","chat_polling":"10","bar_polling":"120","view":"in","profile_default":"activity","show_tid":"0","cat_id":"","album_id":"0","current_user_id":"0","current_user_display_name":"","current_user_level":"0","current_user_page":"0","current_group":"0","post":"","please_wait":"Please Wait...","saving":"Saving","site_title":"M1k37h0r","site_url":"http:\/\/m1k37h0r.esy.es","bg_color_2":"#ebebeb","row_border_size":"1","row_border_style":"dotted","text_color_2":"#0054a5","template_mail_tray":"<div class='bulk_actions'>[bulk_action]<\/div>[]<div id='mail_mid' class='mail_item mail_read'>[]<div class='mailbox_message_from'>[mail_from]<\/div>[]<div class='mail_item_age'>[mail_sent]<\/div>[]<div class='mailbox_message_subject'>[mail_subject]<\/div>[]<div class='mailbox_message'>[mail_message]<\/div>[]<\/div>","embed":"","to":"","is_admin":"0","mail_id":"","permitted_ext":"*.jpg,*.gif,*.png,*.jpeg,*.mp4,*.pdf,*.txt,*.zip","forum_ajax":"","wps_lite":"","wps_use_poke":"on","wps_forum_stars":"on","wps_forum_refresh":"","wps_wysiwyg":"bold,italic,|,fontselect,fontsizeselect,forecolor,backcolor,|,bullist,numlist,|,link,unlink,|,image,media,|,emotions","wps_wysiwyg_1":"bold,italic,|,fontselect,fontsizeselect,forecolor,backcolor,|,bullist,numlist,|,link,unlink,|,image,media,|,emotions","wps_wysiwyg_2":"","wps_wysiwyg_3":"","wps_wysiwyg_4":"","wps_wysiwyg_css":"","wps_wysiwyg_skin":"","wps_wysiwyg_width":"563","wps_wysiwyg_height":"300","wps_plus":"","wps_alerts_activated":"","wps_admin_page":"na","dir_page_length":"25","dir_full_ver":"","use_elastic":"on","events_user_places":"","events_use_wysiwyg":"","debug":"","include_context":"","use_wp_editor":"","profile_menu_scrolls":"","profile_menu_delta":"","profile_menu_adjust":"","panel_enabled":"","chat_sound":"Pop.mp3","wps_content":"\/wp-content\/wps-content","clear":"Clear","update":"Update","cancel":"Cancel","pleasewait":"Please wait","more":"more...","next":"Next","areyousure":"Are you sure?","browseforfile":"Browse for file","attachimage":"Attach an image","attachfile":"Attach file","whatsup":"What`s up?","whatsup_done":"Post added to your activity.","sendmail":"Send a private mail...","privatemail":"Private Mail","privatemailsent":"Private mail sent!","addasafriend":"Add as a Friend...","friendpending":"Friend request sent","attention":"Hey!","follow":"Follow","unfollow":"Unfollow","sent":"Message sent!","likes":"Likes","dislikes":"Dislikes","forumsearch":"Search on forum","gallerysearch":"Search Gallery","profile_info":"Member Profile","plus_mail":"Mailbox","plus_follow_who":"Who am I following?","plus_friends":"Friends","request_sent":"Your Friend request has been sent.","add_a_comment":"Add a comment:","add":"Add","show_original":"Show original","write_a_comment":"Write a comment...","follow_box":"Hi","events_enable_places":"Enable booking places:","events_max_places":"Maximum places:","events_show_max":"Maximum places:","events_confirmation":"Bookings require confirmation:","events_tickets_per_booking":"Max tickets per booking:","events_tab_1":"Summary","events_tab_2":"More Information","events_tab_3":"Confirmation Email","events_tab_4":"Attendees","events_send_email":"Send confirmation email:","events_replacements":"You can use the following:","events_pay_link":"HTML for payment:","events_cost":"Price per booking:","events_howmany":"How many tickets do you want?","events_labels":"Ref|User|Booked|Confirmation email sent|# Tickets|Payment Confirmed|Actions|Confirm attendee|Send Mail|Re-send confirmation email|Remove attendee|Confirm payment","gallery_labels":"Rename|Photo renamed.|Drag thumbnails to re-order, and then|save|Delete this photo|Set as album cover","sending":"Sending","go":"Go","bbcode_url":"Enter a website URL...","bbcode_problem":"Please make sure all BB Codes have open and close tags!","bbcode_label":"Enter text to show..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/plugins/wp-symposium/js/wps.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/plugins/wp-symposium/js/jscharts.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/plugins/wp-symposium/js/jquery-ui-1.10.3.custom.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/plugins/wp-symposium/js/jwplayer.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/plugins/wp-symposium/js/tmpl.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/plugins/wp-symposium/js/load-image.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/plugins/wp-symposium/js/canvas-to-blob.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/plugins/wp-symposium/js/jquery.iframe-transport.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/plugins/wp-symposium/js/jquery.fileupload.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/plugins/wp-symposium/js/jquery.fileupload-fp.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/plugins/wp-symposium/js/jquery.fileupload-ui.js?ver=4.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var title = {"unfolded":"Expand","folded":"Collapse"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/plugins/bbspoiler/inc/bbspoiler.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/plugins/soundy-background-music/js/front-end.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/plugins/instagram-slider-widget/assets/js/jquery.flexslider-min.js?ver=2.2'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/sedlex/inline_scripts/4139b9ad7b935834d8d31961702681728a5a530a.js?ver=20150328'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://m1k37h0r.esy.es/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://m1k37h0r.esy.es/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1.1" />
+<link rel='canonical' href='http://m1k37h0r.esy.es/' />
+<link rel='shortlink' href='http://wp.me/P5zvxA-dT' />
+            <link rel="prefetch" href="http://m1k37h0r.esy.es/wp-content/plugins/soundy-background-music/audio/valse.mp3">
+            <link rel="prefetch" href="http://m1k37h0r.esy.es/wp-content/plugins/soundy-background-music/images/buttons/48x48/play-square-grey.png">
+            <link rel="prefetch" href="http://m1k37h0r.esy.es/wp-content/plugins/soundy-background-music/images/buttons/48x48/pause-square-grey.png">
+            <link rel="prefetch" href="http://m1k37h0r.esy.es/wp-content/plugins/soundy-background-music/images/buttons/48x48/play-square-blue.png">
+            <link rel="prefetch" href="http://m1k37h0r.esy.es/wp-content/plugins/soundy-background-music/images/buttons/48x48/pause-square-blue.png">
+            <script>
+                var war_soundy_front_end = new war_SoundyFrontEnd(
+                {
+                    pp_code:                    '<img class="war_soundy_audio_control war_soundy_pp_corner" style="position: fixed; right: 35px; top: 35px;">',
+                    audio_code:                 '<div style="display: none;">  <audio id="war_soundy_audio_player" preload="auto" autoplay loop>	   <source id="war_soundy_audio_player_source" src="http://m1k37h0r.esy.es/wp-content/plugins/soundy-background-music/audio/valse.mp3" type="audio/mpeg">  </audio></div>',
+                    audio_volume:               1,
+                    preview:                    'false',
+                    button_url_play_normal:     'http://m1k37h0r.esy.es/wp-content/plugins/soundy-background-music/images/buttons/48x48/play-square-grey.png',
+                    button_url_pause_normal:    'http://m1k37h0r.esy.es/wp-content/plugins/soundy-background-music/images/buttons/48x48/pause-square-grey.png',
+                    button_url_play_hover:      'http://m1k37h0r.esy.es/wp-content/plugins/soundy-background-music/images/buttons/48x48/play-square-blue.png',
+                    button_url_pause_hover:     'http://m1k37h0r.esy.es/wp-content/plugins/soundy-background-music/images/buttons/48x48/pause-square-blue.png',
+                    user_agent_is_IOS:          false                } );
+
+                var war_soundy_responsive_mode = 'none';
+                var war_soundy_button_corner = 'upper_right';
+                            </script>
+        
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<link rel="icon" href="http://i0.wp.com/m1k37h0r.esy.es/wp-content/uploads/2015/01/logotrans-54ad4cfav1_site_icon.png?fit=32%2C32" sizes="32x32" />
+<link rel="apple-touch-icon-precomposed" href="http://i0.wp.com/m1k37h0r.esy.es/wp-content/uploads/2015/01/logotrans-54ad4cfav1_site_icon.png?fit=114%2C114">
+<meta name="msapplication-TileImage" content="http://i0.wp.com/m1k37h0r.esy.es/wp-content/uploads/2015/01/logotrans-54ad4cfav1_site_icon.png?fit=114%2C114"/>
+<style type='text/css'>img#wpstats{display:none}</style>			<link rel="shortcut icon" href="http://m1k37h0r.esy.es/wp-content/uploads/2015/01/logotrans-54ad4cfav1_site_icon.png" />
+	
+	<style type="text/css"> 
+		/* Top Menu */
+
+		.site-info-text-top,
+		#top-1-navigation {
+			background-color:#1e73be;
+		}
+
+		#top-1-navigation .horisontal-navigation li a {
+			color: #fff;
+		}	
+		#menu-1 {
+			border: 1px solid #fff;
+		}
+		#top-1-navigation .horisontal-navigation li ul {
+			background-color: #eeeeee;
+		}
+
+		#top-1-navigation .horisontal-navigation li ul li a {
+			color: #1e73be;
+		}
+		#top-1-navigation .horisontal-navigation li a:hover,
+		#top-1-navigation .horisontal-navigation li a:focus {
+			background: #eeeeee;
+			color: #1e73be;
+		}
+		#top-1-navigation .horisontal-navigation li ul li a:hover,
+		.horisontal-navigation li ul li a:focus {
+			background-color: #1e73be;
+			color: #eeeeee;
+		}
+		#top-1-navigation .horisontal-navigation .current-menu-item > a,
+		#top-1-navigation .horisontal-navigation .current-menu-ancestor > a,
+		#top-1-navigation .horisontal-navigation .current_page_item > a,
+		#top-1-navigation .horisontal-navigation .current_page_ancestor > a {
+			border: 1px solid #eeeeee;
+		}
+		#top-1-navigation .horisontal-navigation li ul .current-menu-item > a,
+		#top-1-navigation .horisontal-navigation li ul .current-menu-ancestor > a,
+		#top-1-navigation .horisontal-navigation li ul .current_page_item > a,
+		#top-1-navigation .horisontal-navigation li ul .current_page_ancestor > a {
+			background-color: #1e73be;
+			color: #eeeeee;
+		}
+		
+		/* Second Top Menu */
+		
+		#top-navigation {
+			background-color:#1e73be;
+		}
+		#top-navigation .horisontal-navigation li a {
+			color: #ffffff;
+		}	
+		#top-navigation .horisontal-navigation li ul {
+			background-color: #eeeeee;
+		}
+		#top-navigation .horisontal-navigation li ul li a {
+			color: #1e73be;
+		}
+		#top-navigation .horisontal-navigation li a:hover,
+		#top-navigation .horisontal-navigation li a:focus {
+			background: #eeeeee;
+			color: #1e73be;
+		}
+		#top-navigation .horisontal-navigation li ul li a:hover,
+		#top-navigation .horisontal-navigation li ul li a:focus {
+			background: #1e73be;
+			color: #ffffff;
+		}
+		#top-navigation .horisontal-navigation .current-menu-item > a,
+		#top-navigation .horisontal-navigation .current-menu-ancestor > a,
+		#top-navigation .horisontal-navigation .current_page_item > a,
+		#top-navigation .horisontal-navigation .current_page_ancestor > a {
+			border: 1px solid #eeeeee;
+		}
+
+		#top-navigation .horisontal-navigation li ul .current-menu-item > a,
+		#top-navigation .horisontal-navigation li ul .current-menu-ancestor > a,
+		#top-navigation .horisontal-navigation li ul .current_page_item > a,
+		#top-navigation .horisontal-navigation li ul .current_page_ancestor > a {
+			background-color: #1e73be;
+			color: #ffffff;
+		}	
+		#top-navigation {
+			border-top: 1px solid #ffffff;
+		}
+		
+		/* Footer Menu */
+		
+		.site-info,
+		#footer-navigation {
+			background-color:#1e73be;
+			color: #eeeeee;
+		}
+		.site-info a{
+			color: #fff;
+		}	
+		#footer-navigation .horisontal-navigation li a {
+			color: #fff;
+		}	
+		#footer-navigation .horisontal-navigation li ul {
+			background-color: #eeeeee;
+		}
+		#footer-navigation .horisontal-navigation li ul li a {
+			color: #1e73be;
+		}
+		#footer-navigation .horisontal-navigation li a:hover,
+		#footer-navigation .horisontal-navigation li a:focus {
+			background: #eeeeee;
+			color: #1e73be;
+		}
+		#footer-navigation .horisontal-navigation li ul li a:hover {
+			background: #1e73be;
+			color: #fff;
+		}
+		#footer-navigation .horisontal-navigation .current-menu-item > a,
+		#footer-navigation .horisontal-navigation .current-menu-ancestor > a,
+		#footer-navigation .horisontal-navigation .current_page_item > a,
+		#footer-navigation .horisontal-navigation .current_page_ancestor > a {
+			border: 1px solid #eeeeee;
+		}
+		#footer-navigation .horisontal-navigation li ul .current-menu-item > a,
+		#footer-navigation .horisontal-navigation li ul .current-menu-ancestor > a,
+		#footer-navigation .horisontal-navigation li ul .current_page_item > a,
+		#footer-navigation .horisontal-navigation li ul .current_page_ancestor > a {
+			background-color: #1e73be;
+			color: #fff;
+		}
+
+		/* Footer Sidebar */
+		
+		.sidebar-footer {
+			background-color:#dddddd;
+		}	
+		.sidebar-footer .widget-wrap .widget-title,
+		.sidebar-footer .widget-wrap .widget {
+			color: #828282;
+		}
+		.sidebar-footer .widget-wrap .widget a {
+			color: #1e73be;
+		}
+		.sidebar-footer .widget-wrap .widget a:hover {
+			color: #000000;
+		}
+		
+		/* Top Sidebar */
+		.sidebar-top-full,
+		.sidebar-top {
+			background-color:#eeeeee;
+		}	
+		.sidebar-top-full .widget,
+		.sidebar-top .widget-wrap .widget {
+			color: #333;
+		}
+		.sidebar-top-full .widget a,
+		.sidebar-top .widget-wrap .widget a {
+			color: #1e73be;
+		}
+		.sidebar-top-full .widget a:hover,
+		.sidebar-top .widget-wrap .widget a:hover {
+			color: #000000;
+		}
+		
+		.image-and-cats a,
+		.featured-post,
+		.post-date a,
+		.column .widget a,
+		.content a {
+			color: #1e73be;
+		}
+		
+		a:hover,
+		.entry-date a:hover,
+		.author a:hover,
+		.site-info-text-top .site-title a:hover,
+		.site-title a:hover,
+		.entry-header .entry-title a:hover,
+		.category-list a:hover {
+			color: #339900;;
+		}
+				
+		.site-description {
+			color: #cccccc;;
+		}
+		
+		entry-header .entry-title a,
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			color: #000000;
+		}
+		
+		.column .widget .widget-title {
+			background: #1e73be;
+			color: #fff;
+		}
+		
+		
+		.site {
+			background:#eeeeee url(http://none) repeat 0 0 fixed;		
+		}
+		
+		.header-text-is-on.header-is-on .site-info-text {
+			background: #006600;
+		}
+	
+		.image-and-cats-big .category-list,
+		.image-and-cats .category-list,
+		.site-cat {
+			background: #eee;
+		}		
+		
+		.image-and-cats-big a,
+		.image-and-cats a,
+		.site-cat a {
+			color: #1e73be;;
+		}
+
+		.sidebar-left .widget,
+		.sidebar-right .widget {
+			color: #999999;
+		}
+		
+		.sidebar-left .widget a,
+		.sidebar-right .widget a {
+			color: #1e73be;
+		}
+		
+		.sidebar-left .widget a:hover,
+		.sidebar-right .widget a:hover {
+			color: #000066;
+		}
+		
+		.column .widget {
+			border: 1px solid #eeeeee;
+		}
+		
+		.sidebar-top-full,
+		.sidebar-before-footer,	
+		.site-content {
+			box-shadow: 0 0 4px 4px #bfbfbf;
+		}
+		
+		.site-content {
+			max-width: 749px;
+		}
+		
+		.page .site-content {
+			max-width: 749px;
+		}
+		
+		.left-sidebar-is-on .site-content {
+			max-width: 749px;
+		}
+		.page.left-sidebar-is-on .site-content {
+			max-width: 960px;
+		}
+		.right-sidebar-is-on .site-content {
+			max-width: 749px;
+		}
+		.page.right-sidebar-is-on .site-content {
+			max-width: 960px;
+		}
+		
+		.two-sidebars .site-content {
+			max-width: 749px;
+		}
+		.page.two-sidebars .site-content {
+			max-width: 960px;
+		}
+		
+		@media screen and (min-width: 1349px) {
+			.page.two-sidebars .site-content,
+			.two-sidebars .site-content {
+				max-width: 749px;
+			}
+		}
+		
+		.page-template-page-templatesfull-width-wide-php .site-content {
+			max-width: 960px;
+		}
+		
+		@media screen and (max-width: 759px) {		
+			.site-content {
+				box-shadow: none;
+			}
+		}
+		
+	</style>
+	<!-- WP-Members version 2.9.9.1, available at http://rocketgeek.com/wp-members -->
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #1e73be; }
+</style>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="M1k37h0r" />
+<meta property="og:description" content="Smart Tribe" />
+<meta property="og:url" content="http://m1k37h0r.esy.es/" />
+<meta property="og:site_name" content="M1k37h0r" />
+<meta property="og:image" content="http://m1k37h0r.esy.es/wp-content/uploads/2015/01/renato-150x150.jpg" />
+<meta property="og:locale" content="en_GB" />
+<meta name="twitter:site" content="@M1k37h0r" />
+<meta name="twitter:image" content="http://m1k37h0r.esy.es/wp-content/uploads/2015/01/renato-150x150.jpg?w=240" />
+<meta name="twitter:card" content="summary" />
+</head>
+
+<body class="home page page-id-861 page-template-default custom-background header-text-is-on no-thumbnail no-cat header-is-on google-fonts-on left-sidebar-is-on two-sidebars">
+	<div id="page" class="hfeed site">
+			<!-- Header -->
+						<!-- Header text while header image is empty -->
+			<header id="masthead" class="site-header" role="banner">	
+				
+				<!-- First Top Menu -->		
+					<div id="top-1-navigation" class="nav-container">
+					
+												
+							
+	
+						
+													<nav id="menu-1" class="horisontal-navigation" role="navigation">
+								<h3 class="menu-toggle"></h3>
+								<div class="menu-menu-1-container"><ul id="menu-menu-1" class="nav-horizontal"><li id="menu-item-1265" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-861 current_page_item menu-item-1265"><a href="http://m1k37h0r.esy.es/">Home</a></li>
+<li id="menu-item-832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-832"><a href="http://m1k37h0r.esy.es/puzzles/">Week’s Puzzles</a>
+<ul class="sub-menu">
+	<li id="menu-item-1266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1266"><a href="http://m1k37h0r.esy.es/puzzles/your-answer-2/">Your Answer:</a></li>
+</ul>
+</li>
+<li id="menu-item-830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-830"><a href="http://m1k37h0r.esy.es/monthlycompetition/">Monthly Competition</a>
+<ul class="sub-menu">
+	<li id="menu-item-1267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1267"><a href="http://m1k37h0r.esy.es/monthlycompetition/memberanswer/">Member Answer</a></li>
+</ul>
+</li>
+<li id="menu-item-1268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1268"><a href="http://m1k37h0r.esy.es/downloads/">Downloads</a></li>
+<li id="menu-item-1289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1289"><a href="http://m1k37h0r.esy.es/forum/">Forum</a></li>
+<li id="menu-item-1291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1291"><a href="http://m1k37h0r.esy.es/members/">Members</a></li>
+<li id="menu-item-1284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1284"><a href="http://m1k37h0r.esy.es/admission-test/">Admission Test</a></li>
+</ul></div>							</nav>
+												<div class="clear"></div>
+					</div>
+					
+						
+
+			<div class="img-container">
+									<!-- Site Name -->
+					<div class="site-info-text">
+						<h1 class="site-title"><a href="http://m1k37h0r.esy.es/" rel="home">M1k37h0r</a></h1>
+						<!-- Dscription -->
+						<h2 class="site-description">Smart Tribe</h2>
+					</div>
+								
+				<!-- Banner -->
+				<div class="header-wrapper">
+					<a href="http://m1k37h0r.esy.es/">
+						<img src="http://m1k37h0r.esy.es/wp-content/uploads/2015/02/banner3.png" class="header-image" width="1309" height="188" alt="" />
+					</a>
+				</div>
+
+			</div>
+		
+				
+
+		
+	
+				<!-- Second Top Menu -->	
+									  
+
+	
+			<div class="sidebar-left">
+			<div id="sidebar-5" class="column">
+				<h3 class="sidebar-toggle">Sidebar</h3>
+				<div class="widget-area">
+					<aside id="widget_wpmemwidget-7" class="widget wp-members"><div id="wp-members"><div class="before-widget-title"></div><h3 class="widget-title">Members Login</h3><div class="after-widget-title"></div>You are not logged in.<br /><form name="form" method="post" action="/"><fieldset><label for="username">Username</label><div class="div_texbox"><input type="text" name="log" class="username" id="username" /></div><label for="password">Password</label><div class="div_texbox"><input type="password" name="pwd" class="password" id="password" /></div><input type="hidden" name="rememberme" value="forever" /><input type="hidden" name="redirect_to" value="/" /><input type="hidden" name="a" value="login" /><input type="hidden" name="slog" value="true" /><div class="button_div"><input type="submit" name="Submit" class="buttons" value="log in" /> <a href="http://m1k37h0r.esy.es/answers/">Register</a></div></fieldset></form></div></aside><aside id="text-6" class="widget widget_text"><div class="before-widget-title"></div><h3 class="widget-title">Winners of Competitions</h3><div class="after-widget-title"></div>			<div class="textwidget"><p>xxxxxx  xxxxxx xxxxxx<br />
+xxxxxx xxxxxx  xxxxxx<br />
+xxxxxx xxxxxx  xxxxxx<br />
+xxxxxx xxxxxx  xxxxxx<br />
+xxxxxx xxxxxx  xxxxxx</p>
+</div>
+		</aside><aside id="jr_insta_slider-4" class="widget jr-insta-slider"><div class="before-widget-title"></div><h3 class="widget-title">Follow me on Instagram</h3><div class="after-widget-title"></div><script type='text/javascript'>
+	jQuery(document).ready(function($) {
+		$('.pllexislider-normal').pllexislider({
+			animation: 'fade',
+			directionNav: true,
+			controlNav: false,
+			prevText: '',
+			nextText: '',
+		});
+	});
+</script>
+<div class='pllexislider pllexislider-normal'>
+<ul class='no-bullet slides'>
+<li><a href="https://instagram.com/p/0pCsxqGieF/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/11084843_1478561992418921_9470509_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0pCiZjGid5/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11085183_798740730217684_1784559817_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0pk8mHmiRG/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11084754_344470839088991_1328885384_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0pCxeqmieQ/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11084874_374389969415026_1620005227_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0pk5qKmiRA/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xap1/t51.2885-15/e15/925659_865026740220779_1239231500_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0pCnZ_mieA/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/11033009_934707919896784_403895170_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0pkxyUGiQ0/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/e15/10518095_868476099875870_2051084398_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0pk-ilmiRJ/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/e15/1941206_1378752712449511_953284451_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0pCkrPGid7/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/11078801_1416596095312805_1244916802_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0plHkQGiRa/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/11055896_1085400461476641_2085486471_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0pCgKnmid1/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/10963774_1053784474634893_1800209905_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0plFi8GiRV/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/10554040_911772458843430_1024116027_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0pCvGdmieK/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/10953157_346483018883500_1260616319_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0pC18HGieW/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11015608_1430633223897395_2002331686_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0pk3bLGiQ9/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11024092_745188408911644_1136724731_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0pk1bwGiQ7/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11032783_1538589749699222_782219025_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0pCqLEGieC/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/11032961_421757301319264_1139964873_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0pCzpNGieT/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/11055938_1419884411648101_102461936_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0plBBCmiRO/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11049279_359534854254438_2034287146_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li><li><a href="https://instagram.com/p/0plDPBmiRR/" target="_blank" title=""><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11049300_1604058543142166_752086108_n.jpg" alt="" title="" /></a><div class='jr-insta-datacontainer'>
+<span class='jr-insta-username'>by <a rel='nofollow' href='http://instagram.com/m1k37h0r' target='_blank'>m1k37h0r</a></span>
+</div>
+</li></ul>
+</div></aside>				</div><!-- .widget-area -->
+			</div><!-- .column -->
+		</div><!-- .sidebar-left -->
+	
+		
+					  
+
+	
+		
+		<div class="sidebar-right">
+			<div id="sidebar-8" class="right column">
+				<h3 class="sidebar-toggle">Sidebar</h3>
+				<div class="widget-area">
+					<aside id="ttb-widget-8" class="widget translate_tb_widget"><div class="before-widget-title"></div><h3 class="widget-title">Translate</h3><div class="after-widget-title"></div>
+<!-- Begin TranslateThis Button for WordPress -->
+
+<div id="translate-this"><a href="http://www.translatecompany.com/" class="translate-this-button">Translate This</a></div>
+<script type="text/javascript" src="//x.translateth.is/translate-this.js"></script>
+<script type="text/javascript">
+TranslateThis({
+GA : true,
+undoText : 'Undo &raquo;',
+panelText : 'Translate Into:',
+moreText : '36 More Languages &raquo;',
+busyText : 'Translating page...',
+cancelText : 'cancel',
+fromLang : 'en'
+});
+</script>
+
+<!-- End TranslateThis Button for WordPress -->
+
+</aside><aside id="welovequotes_randomquotewidget-11" class="widget welovequotes_randomquote"><div class="before-widget-title"></div><h3 class="widget-title">Random Quote</h3><div class="after-widget-title"></div><div class="weLoveQuotes quote">Whether you think you can or you think you can’t&#44; you’re right.</div><div class="weLoveQuotes author"><a href="http://welovequotes.net/henry-ford" target="_blank">Henry Ford</a></div></aside><aside id="twitter_timeline-7" class="widget widget_twitter_timeline"><div class="before-widget-title"></div><h3 class="widget-title">Follow me on Twitter</h3><div class="after-widget-title"></div><a class="twitter-timeline" data-widget-id="578828336622780416" data-theme="light" data-link-color="#f96e5b" data-border-color="#e8e8e8" data-chrome="noheader noborders noscrollbar transparent" height="330" lang="EN">My Tweets</a></aside><aside id="yasip-2" class="widget yasip"><a href="https://twitter.com/M1k37h0r" target="_blank"><img src="http://m1k37h0r.esy.es/wp-content/plugins/yasip/images/flat/twitter_32x32.png" alt="Twitter" /></a><a href="https://www.facebook.com/m1k37h0r" target="_blank"><img src="http://m1k37h0r.esy.es/wp-content/plugins/yasip/images/flat/facebook_32x32.png" alt="Facebook" /></a><a href="https://www.youtube.com/channel/UC1M5XL7whUV2RTNCAG25Esg" target="_blank"><img src="http://m1k37h0r.esy.es/wp-content/plugins/yasip/images/flat/youtube_32x32.png" alt="Youtube" /></a><a href="https://www.pinterest.com/m1k37h0r/following/" target="_blank"><img src="http://m1k37h0r.esy.es/wp-content/plugins/yasip/images/flat/pinterest_32x32.png" alt="pinterest" /></a><a href="http://www.stumbleupon.com/stumbler/m1k37h0r" target="_blank"><img src="http://m1k37h0r.esy.es/wp-content/plugins/yasip/images/flat/stumbleupon_32x32.png" alt="StumbleUpon" /></a><a href="https://plus.google.com/u/0/116686196980982723318/posts?hl=nl" target="_blank"><img src="http://m1k37h0r.esy.es/wp-content/plugins/yasip/images/flat/googleplus_32x32.png" alt="googleplus" /></a><a href="https://instagram.com/m1k37h0r/" target="_blank"><img src="http://m1k37h0r.esy.es/wp-content/plugins/yasip/images/flat/instagram_32x32.png" alt="instagram" /></a><a href="https://www.tumblr.com/blog/m1k37h0r" target="_blank"><img src="http://m1k37h0r.esy.es/wp-content/plugins/yasip/images/flat/tumblr_32x32.png" alt="tumblr" /></a></aside>				</div><!-- .widget-area -->
+			</div><!-- .column -->
+		</div><!-- .sidebar-right -->
+	
+		
+
+			</header><!-- #masthead -->
+	
+			<div class="site-content"> 
+				<div class="content">
+				
+	<div class="content-container">
+
+	<article id="post-861" class="post-861 page type-page status-publish hentry">
+
+		<header class="entry-header">
+			
+			<h1 class="entry-title">Home</h1>			
+													
+		</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<ul>
+<li><span style="color: #3366ff;"><strong>M1k37h0r</strong></span> is a beta project created to give participants a new way to exercise the mind.</li>
+<li><strong><span style="color: #ff0000;">The Week&#8217;s Puzzles:</span></strong> It  is open to everyone, and everyone can send the answers through the form.</li>
+<li><span style="color: #ff0000;"><strong>The Monthly Competition: </strong><span style="color: #000000;">It</span> </span> is open to all, however only members can post answers.</li>
+<li><strong><span style="color: #ff0000;">Admission Test:</span>  </strong>Give the right answers for the 10 questions to become a member of Tribe.</li>
+<li><strong><span style="color: #ff0000;">The Pages:</span> </strong>Downloads, Forum and Members can be only accessed by Members.<br />
+The puzzles in the website are of own authorship.</li>
+<li><span style="color: #ff0000;"><strong>Social Media:</strong> </span>M1k37h0r is connected to facebook, instagram and Twitter.</li>
+<li><span style="color: #ff0000;"><strong>Collection:</strong></span>The puzzles on Facebook, Instagram and Twitter are parts of a collection of 10 000 puzzles of various authors</li>
+</ul>
+<p>&nbsp;</p>
+<p><a title="Click here to Take The admission test " href="http://m1k37h0r.esy.es/answers/">Take the admission test</a></p>
+<p>&nbsp;</p>
+<p><span class="hps">I hope you enjoy</span>.</p>
+<p><span style="font-family: arial,helvetica,sans-serif;">Author<a href="http://i1.wp.com/m1k37h0r.esy.es/wp-content/uploads/2015/01/renato.jpg" class="gallery_colorbox"><img class=" wp-image-836 size-thumbnail alignnone" src="http://i1.wp.com/m1k37h0r.esy.es/wp-content/uploads/2015/01/renato.jpg?resize=150%2C150"  alt="renato" data-recalc-dims="1" /></a></span></p>
+<p><span style="font-family: arial,helvetica,sans-serif;"><a href="http://m1k37h0r.esy.es/wp-content/uploads/2015/01/renato.jpg"> </a></span></p>
+			<div class="clear"></div>
+			<footer class="entry-meta">
+							</footer><!-- .entry-meta -->
+		</div><!-- .entry-content -->
+	</article><!-- #post-## -->
+</div><!-- .content-container -->
+				</div><!-- .content -->
+				<div class="clear"></div>
+			</div><!-- .site-content -->
+			
+
+
+	
+		
+			<footer id="colophon" class="site-footer">
+	
+						<div class="empty-menu"></div>
+		<div class="clear"></div>
+				
+				
+
+	<div class="sidebar-footer">
+		<div class="widget-area">
+			<div id="counter24"><!--start--><a target="_blank" href="http://www.free-counter.org/getstat.php?id=6caf831620993ae30" alt="Counter" title="Counter"><script type="text/javascript">var id="6caf831620993ae30";d=document;s=screen; w=s.width; h=s.height;navigator.appName!="Netscape"? b=s.colorDepth : b=s.pixelDepth;navigator.javaEnabled()==1?j="y":j="n"; w?"":w="0"; h?"":h="0"; b?"":b="0";d.write('<img alt="" style="border: 0;" src="http://www.free-counter.org/getimages.php?id='+id+'&amp;j='+j+'&amp;sh='+h+'&amp;sw='+w+'&amp;sb='+b+'&amp;d='+escape(d.location.href.replace(/(http:\/\/|https:\/\/)/,""))+'&amp;r='+(d.referrer)+'\">');</script><noscript><img src="http://www.free-counter.org/getimages.php?id=6caf831620993ae30&amp;j=n"></noscript></a><!--end--></div>			<div class="clear"></div>
+		</div><!-- .widget-area -->
+	</div><!-- .sidebar-footer -->
+	
+							<div class="site-info">
+		<a href="http://wordpress.org/">Proudly powered by WordPress</a> theme by <a href="http://wpblogs.ru/themes/">WP Blogs</a>
+	</div><!-- .site-info -->
+	
+			<a href="#" class="scrollup center move"></a>
+	
+			</footer><!-- #colophon -->
+	</div><!-- #page -->
+	<div id='dialog' style='display:none'></div><div class='__wps__notice' style='display:none; z-index:999999;'><img src='/wp-content/plugins/wp-symposium/images/busy.gif' /> Saving...</div><div class='__wps__pleasewait' style='display:none; z-index:999999;'><img src='/wp-content/plugins/wp-symposium/images/busy.gif' /> Please Wait...</div><div class='__wps__sending' style='display:none; z-index:999999;'><img src='/wp-content/plugins/wp-symposium/images/busy.gif' /> Sending...</div><div id='nobody_user' style='display:none'>0</div>	<div style="display:none">
+	</div>
+		<script type="text/javascript">
+			!function(d,s,id){
+				var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+				if(!d.getElementById(id)){
+					js=d.createElement(s);
+					js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+					fjs.parentNode.insertBefore(js,fjs);
+				}
+			}(document,"script","twitter-wjs");
+		</script>
+		<link rel='stylesheet' id='__wps__StyleSheet-css'  href='http://m1k37h0r.esy.es/wp-content/plugins/wp-symposium/css/wps.min.css?ver=4.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-includes/js/jquery/ui/core.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201513'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Maraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/themes/jolene/js/navigation.js?ver=20141012'></script>
+<script type='text/javascript' src='http://m1k37h0r.esy.es/wp-content/themes/jolene/js/custom-widget.js?ver=20141012'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201513.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.4.1',blog:'82344406',post:'861',tz:'0'} ]);
+	_stq.push([ 'clickTrackerInit', '82344406', '861' ]);
+</script>
+</body>
+</html>
